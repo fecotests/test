@@ -1,3 +1,3 @@
 # test
 
-[itt](../UI Tervek)
+[itt](UITervek)
