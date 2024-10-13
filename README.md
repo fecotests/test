@@ -2,4 +2,4 @@
 
 [Adatmodell](UITervek/Adatbazis.png)
 [UI Tervek](UITervek)
-[Szerepkörök](UITervek/Szerepkorok.txt)
+[Szerepkörök](UITervek/Szerepkörök.txt)
